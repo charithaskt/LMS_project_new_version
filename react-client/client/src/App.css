@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  width: 60%;
+}
+
+.indent-40 {
+ margin: 40px;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+table {
+  width: 60%;
+}
+
+.center-text {
+  text-align: center;
+}
+
