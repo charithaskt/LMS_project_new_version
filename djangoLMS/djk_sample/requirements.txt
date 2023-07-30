@@ -1,0 +1,2 @@
+django-allauth
+django-jinja-knockout==2.2.0
